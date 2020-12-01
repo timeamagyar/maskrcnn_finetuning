@@ -1,0 +1,7 @@
+.idea/
+ActiveshuttleDataset/
+vision/
+__pycache__
+images/
+*.pcy
+maskrcnn.pt
